@@ -1,7 +1,7 @@
 class Natero::Base
   include Serializable
 
-  BASE_URI = 'https://api.natero.com'
+  BASE_URI = 'https://api-eu.natero.com'
   VERSION_URI = '/api/v2'
 
   REQUIRED_PARAMS = []
